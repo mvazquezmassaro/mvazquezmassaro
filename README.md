@@ -12,7 +12,7 @@ I also enjoy playing chess, thing I did during over 15 years.
  * <img src='https://www.r-project.org/logo/Rlogo.svg' alt='linkedin' height='17'>  &nbsp;R &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:white_check_mark:                                 
  * <img src='https://mvazquezmassaro.github.io//infovis/tableau-software.svg' alt='tableau' height='17'> Tableau &nbsp;&nbsp;&nbsp;:white_check_mark:                               
  * <img src='https://mvazquezmassaro.github.io/infovis/powerbi.svg' alt='powerbi' height='20'> Power BI &nbsp;:white_check_mark:                                            
- * <img src='https://mvazquezmassaro.github.io/infovis/flourish.svg' alt='powerbi' height='19'> Flourish &nbsp;&nbsp;:white_check_mark:                                           
+ * <img src='https://mvazquezmassaro.github.io/infovis/flourish.svg' alt='powerbi' height='19'> &nbsp;Flourish &nbsp;&nbsp;:white_check_mark:                                           
 
 
 
