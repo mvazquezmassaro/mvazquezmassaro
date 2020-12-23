@@ -4,13 +4,13 @@ I´m Maximiliano Vazquez from Argentina and I really love Building interactive a
 I also enjoy playing chess, thing I did during over 15 years.
 
 ##Skills and Experience
-* :atom: React
-* :mobile_phone_off: React Native
+* :computer: Python/R
+* :white_check_mark: Tableau
+* :white_check_mark: Power BI
+* :white_check_mark: Flourish
 
 
 
-
-**Skills:** Python/R/SQL/Tableau/Power BI/Flourish
 
 - 🔭 I’m currently working on My Data Science consulting 
 
