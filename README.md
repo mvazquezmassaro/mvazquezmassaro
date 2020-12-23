@@ -10,7 +10,7 @@ I also enjoy playing chess, thing I did during over 15 years.
 
  * :white_check_mark:  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/48px-Python.svg.png' alt='python' height='18'>
  * :white_check_mark:  <img src='https://www.r-project.org/logo/Rlogo.svg' alt='linkedin' height='17'>
- * :white_check_mark:  Tableau
+ * :white_check_mark:  <img src='https://https://64.media.tumblr.com/afda56b702063624a8e81b70df4691d2/tumblr_inline_nx731nBF7f1shaw23_1280.png' alt='tableau' height='17'>     
  * :white_check_mark:  Power BI
  * :white_check_mark:  Flourish
 
