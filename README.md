@@ -11,7 +11,7 @@ I also enjoy playing chess, thing I did during over 15 years.
  * :white_check_mark:  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/48px-Python.svg.png' alt='python' height='18'> Python
  * :white_check_mark:  <img src='https://www.r-project.org/logo/Rlogo.svg' alt='linkedin' height='17'> R
  * :white_check_mark:  <img src='https://mvazquezmassaro.github.io//infovis/tableau-software.svg' alt='tableau' height='17'> Tableau
- * :white_check_mark:  ![alt text](https://mvazquezmassaro.github.io/infovis/power%20bi.png =20x20)
+ * :white_check_mark:  <img src="https://mvazquezmassaro.github.io/infovis/power%20bi.png" width="48">                                                    
     
 
 
