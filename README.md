@@ -8,11 +8,11 @@ I also enjoy playing chess, thing I did during over 15 years.
 
 ## **Skills and Experience
 
- * :white_check_mark:  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/48px-Python.svg.png' alt='python' height='19' width="20"> Python
- * :white_check_mark:  <img src='https://www.r-project.org/logo/Rlogo.svg' alt='linkedin' height='17'> R
- * :white_check_mark:  <img src='https://mvazquezmassaro.github.io//infovis/tableau-software.svg' alt='tableau' height='17'> Tableau
- * :white_check_mark:  <img src='https://mvazquezmassaro.github.io/infovis/powerbi.svg' alt='powerbi' height='20'> Power BI
- * :white_check_mark:  <img src='https://mvazquezmassaro.github.io/infovis/flourish.svg' alt='powerbi' height='19'> Flourish
+ * <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/48px-Python.svg.png' alt='python' height='19' width="20"> Python
+ * <img src='https://www.r-project.org/logo/Rlogo.svg' alt='linkedin' height='17'> R
+ * <img src='https://mvazquezmassaro.github.io//infovis/tableau-software.svg' alt='tableau' height='17'> Tableau
+ * <img src='https://mvazquezmassaro.github.io/infovis/powerbi.svg' alt='powerbi' height='20'> Power BI
+ * <img src='https://mvazquezmassaro.github.io/infovis/flourish.svg' alt='powerbi' height='19'> Flourish
 
 
 
