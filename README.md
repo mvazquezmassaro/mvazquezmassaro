@@ -12,7 +12,7 @@ I also enjoy playing chess, thing I did during over 15 years.
  * :white_check_mark:  <img src='https://www.r-project.org/logo/Rlogo.svg' alt='linkedin' height='17'> R
  * :white_check_mark:  <img src='https://mvazquezmassaro.github.io//infovis/tableau-software.svg' alt='tableau' height='17'> Tableau
  * :white_check_mark:  <img src='https://upload.wikimedia.org/wikipedia/commons/c/c9/Power_bi_logo_black.svg' alt='powerbi' height='17'> Power BI
- * :white_check_mark:  <img src= "https://mvazquezmassaro.github.io/infovis/powerbi.png" width="20" height='20'>
+
 
 
 
