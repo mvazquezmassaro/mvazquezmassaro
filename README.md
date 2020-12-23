@@ -17,7 +17,7 @@ I also enjoy playing chess, thing I did during over 15 years.
 
 
 
-- 🔭 I’m currently working on My Data Science consulting 
+- 🔭 I’m currently working on My Data Science consulting project.
 
 
     [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/maximiliano-vazquez-massaro-3173a170/)  
