@@ -12,7 +12,7 @@ I also enjoy playing chess, thing I did, as a professional, during over 15 years
  * <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/48px-Python.svg.png' alt='python' height='19' width="20"> Python &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;  :white_check_mark:
  * <img src='https://www.r-project.org/logo/Rlogo.svg' alt='linkedin' height='17'>  &nbsp;R &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :white_check_mark:                                 
  * <img src='https://mvazquezmassaro.github.io//infovis/tableau-software.svg' alt='tableau' height='17'> Tableau &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :white_check_mark:                               
- * <img src='https://mvazquezmassaro.github.io/infovis/powerbi.svg' alt='powerbi' height='20'> Power BI &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :white_check_mark:                                            
+ * <img src='https://mvazquezmassaro.github.io/infovis/powerbi.svg' alt='powerbi' height='20'> Power BI &nbsp;&nbsp;&nbsp;&nbsp;:white_check_mark:                                            
  * <img src='https://mvazquezmassaro.github.io/infovis/flourish.svg' alt='powerbi' height='19'> &nbsp;Flourish &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:white_check_mark:                                           
 
 
