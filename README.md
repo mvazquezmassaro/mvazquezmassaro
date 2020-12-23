@@ -1,12 +1,17 @@
-### Hi there 👋, Maximiliano Vazquez Massaro
-#### Data Analysis and Visualizations
+### Hi there 👋, my name is Arturs
+#### I am GitHub Readme Generator's creator
+![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+
+Skills: VUE JS / REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on My Data Science consulting 
 
 
-I'm Maximiliano Vazquez Massaro from Argentina and I like building interactive and complex data visualizations and analysis tools (e.g., dashboards), as researching, designing, and testing machine-learning algorithms. I have a bachelor degree in Business Administration, Actuarial Science, a Master degree in statistics and econometrics and an specialization in data science. I really love playing chess, thing I did as a professional during over 15 years.
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mvazquezmassaro)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/mvazquezmassaro)  
 
-Skills: Python/R/SQL/Power BI/Tableau/Flourish/
-
-- 🔭 I’m currently working on this page. 
+age. 
 
 
 
