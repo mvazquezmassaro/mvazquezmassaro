@@ -20,13 +20,13 @@ I also enjoy playing chess, thing I did during over 15 years.
 - 🔭 I’m currently working on My Data Science consulting project.
 
 
-    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/maximiliano-vazquez-massaro-3173a170/)  
+    [<img src='https://mvazquezmassaro.github.io//infovis/linkedin-svgrepo-com.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/maximiliano-vazquez-massaro-3173a170/)  
+
     [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mvazquezmassaro)
 
 
 
- [<img src='https://mvazquezmassaro.github.io//infovis/linkedin-svgrepo-com.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/maximiliano-vazquez-massaro-3173a170/)  
-
+ 
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mvazquezmassaro)](https://github.com/anuraghazra/github-readme-stats)
