@@ -11,7 +11,7 @@ I also enjoy playing chess, thing I did during over 15 years.
  * :white_check_mark:  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/48px-Python.svg.png' alt='python' height='18'> Python
  * :white_check_mark:  <img src='https://www.r-project.org/logo/Rlogo.svg' alt='linkedin' height='17'> R
  * :white_check_mark:  <img src='https://mvazquezmassaro.github.io//infovis/tableau-software.svg' alt='tableau' height='17'> Tableau
- * :white_check_mark: <img src='https://seekvectorlogo.com/power-bi-vector-logo-svg/' alt='powerbi' height='17'> Power BI  
+ * :white_check_mark: <a href="https://seekvectorlogo.com/power-bi-vector-logo-svg/" target="_blank"><img src="https://seekvectorlogo.com/wp-content/uploads/2018/12/power-bi-vector-logo.png" /  alt='powerbi' height='17'></a>
 
 
 
