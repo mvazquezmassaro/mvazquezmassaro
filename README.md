@@ -8,7 +8,7 @@ Skills: Python/R/SQL/Tableau/Power BI/Flourish
 - 🔭 I’m currently working on My Data Science consulting 
 
 
-    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Maximiliano Vazquez Massaro/)  
+    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/maximiliano-vazquez-massaro-3173a170/)  
 
 
 
