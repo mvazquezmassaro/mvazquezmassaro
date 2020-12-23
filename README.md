@@ -3,7 +3,7 @@
 ![I am GitHub Readme Generator's creator](https://mvazquezmassaro.github.io/infovis/data_s.png)
 
 
-I´m Maximiliano Vazquez from Argentina and I really love Building interactive and complex data visualizations and analysis tools (e.g., dashboards) As Researching, designing, and testing machine-learning algorithms and programs.
+I´m Maximiliano Vazquez from Argentina and I really love Building interactive and complex data visualizations and analysis tools (e.g., dashboards) as well as Researching, designing, and testing machine-learning algorithms and programs.
 I also enjoy playing chess, thing I did, as a professional, during over 15 years.
 
 ## **Skills and Experience
