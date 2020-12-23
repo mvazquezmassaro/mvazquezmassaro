@@ -1,6 +1,6 @@
 ### Hi there 👋, Maximiliano Vazquez Massaro
 #### Data Analysis and Visualizations
-![Data Analysis and Visualizations](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 
 I'm Maximiliano Vazquez Massaro from Argentina and I like building interactive and complex data visualizations and analysis tools (e.g., dashboards), as researching, designing, and testing machine-learning algorithms. I have a bachelor degree in Business Administration, Actuarial Science, a Master degree in statistics and econometrics and an specialization in data science. I really love playing chess, thing I did as a professional during over 15 years.
 
