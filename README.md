@@ -3,7 +3,7 @@
 I´m Maximiliano Vazquez from Argentina and I really love Building interactive and complex data visualizations and analysis tools (e.g., dashboards) As Researching, designing, and testing machine-learning algorithms and programs.
 I also enjoy playing chess, thing I did during over 15 years.
 
-**##Skills and Experience
+## **Skills and Experience
 
 * :computer: Python/R
 * :white_check_mark: Tableau
