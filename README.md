@@ -8,7 +8,7 @@ I also enjoy playing chess, thing I did during over 15 years.
 
 ## **Skills and Experience
 
-* Python
+* :computer:Python
 * :computer:R
 * :white_check_mark: Tableau
 * :white_check_mark: Power BI
