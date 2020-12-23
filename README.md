@@ -8,8 +8,8 @@ I also enjoy playing chess, thing I did during over 15 years.
 
 ## **Skills and Experience
 
-*   Python
-* :white_check_mark: <img src='https://www.r-project.org/logo/Rlogo.svg' alt='linkedin' height='20'>
+* :white_check_mark: <img src='https://www.python.org/static/community_logos/python-logo-generic.svg
+* :white_check_mark: <img src='https://www.r-project.org/logo/Rlogo.svg' alt='linkedin' height='20'>' alt='linkedin' height='20'>
 * :white_check_mark: Tableau
 * :white_check_mark: Power BI
 * :white_check_mark: Flourish
