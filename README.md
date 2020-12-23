@@ -22,7 +22,7 @@ I also enjoy playing chess, thing I did during over 15 years.
 
     [<img src='https://mvazquezmassaro.github.io//infovis/linkedin-svgrepo-com.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/maximiliano-vazquez-massaro-3173a170/)  
 
-    [<img src='https://mvazquezmassaro.github.io/infovis/github_icon.svg' alt='github' height='40'>](https://github.com/mvazquezmassaro)
+    [<img src='https://mvazquezmassaro.github.io/infovis/github_icono.svg' alt='github' height='40'>](https://github.com/mvazquezmassaro)
 
 
 
