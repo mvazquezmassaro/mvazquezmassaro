@@ -8,11 +8,11 @@ I also enjoy playing chess, thing I did during over 15 years.
 
 ## **Skills and Experience
 
-* :white_check_mark: <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/48px-Python.svg.png' alt='python' height='18'>
-* :white_check_mark: <img src='https://www.r-project.org/logo/Rlogo.svg' alt='linkedin' height='17'>
-* :white_check_mark: Tableau
-* :white_check_mark: Power BI
-* :white_check_mark: Flourish
+* :white_check_mark:  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/48px-Python.svg.png' alt='python' height='18'>
+* :white_check_mark:  <img src='https://www.r-project.org/logo/Rlogo.svg' alt='linkedin' height='17'>
+* :white_check_mark:  Tableau
+* :white_check_mark:  Power BI
+* :white_check_mark:  Flourish
 
 
 
