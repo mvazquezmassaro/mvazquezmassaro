@@ -9,7 +9,7 @@ I also consider that Automating common tasks, such as data collection, can make 
 
 ## **Skills and Experience
 
- * <img src='https://mvazquezmassaro.github.io/infovis/postgresql.svg' alt='sql' height='19' width="20"> PostgreSQL   :red_check_mark:
+ * <img src='https://mvazquezmassaro.github.io/infovis/postgresql.svg' alt='sql' height='19' width="20"> PostgreSQL   :white_check_mark:
  * <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/48px-Python.svg.png' alt='python' height='19' width="20"> Python&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   :white_check_mark:
  * <img src='https://www.r-project.org/logo/Rlogo.svg' alt='linkedin' height='17'>  R &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :white_check_mark:                                 
  * <img src='https://mvazquezmassaro.github.io//infovis/tableau-software.svg' alt='tableau' height='17'> Tableau&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :white_check_mark:                               
