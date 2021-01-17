@@ -15,7 +15,7 @@ I also enjoy playing chess, thing I did, as a professional, during over 15 years
  * <img src='https://mvazquezmassaro.github.io/infovis/powerbi.svg' alt='powerbi' height='20'> PowerBI  &nbsp;&nbsp;&nbsp;&nbsp;  :white_check_mark:                                            
  * <img src='https://mvazquezmassaro.github.io/infovis/flourish.svg' alt='powerbi' height='19'> &nbsp;Flourish &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:white_check_mark:  
  * <img src='https://mvazquezmassaro.github.io/infovis/flourish.svg' alt='powerbi' height='19'> &nbsp;Flourish &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:white_check_mark: 
- * <img src=' https://sheenarbw.github.io/pres-airflow/images/airflow%20logo%201.png' alt='Airflow' height='19' width="20"> Python&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   :white_check_mark:
+ * <img src='https://sheenarbw.github.io/pres-airflow/images/airflow%20logo%201.png' alt='Airflow' height='19' width="20"> Airflow&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   :white_check_mark:
 
 
 - 🔭 I’m currently working on My Data Science consulting project.
