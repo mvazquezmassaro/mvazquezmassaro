@@ -4,7 +4,8 @@
 
 
 I´m Maximiliano Vazquez from Argentina and I really love Building interactive and complex data visualizations and analysis tools (e.g., dashboards) as well as Researching, designing, and testing machine-learning algorithms and programs.
-I also enjoy playing chess, thing I did, as a professional, during over 15 years.
+I also consider that Automating common tasks, such as data collection, can make a project efficient and repeatable, leading in turn to increased productivity and output.
+
 
 ## **Skills and Experience
 
